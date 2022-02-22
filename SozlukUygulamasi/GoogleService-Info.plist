@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>236876085108-b5u9ttab25l31h6arn51ani1jt9d26g6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.236876085108-b5u9ttab25l31h6arn51ani1jt9d26g6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAObtCsR6-2xOM2Ftt5NxWMaAkAWZ6o5nI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>236876085108</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>info.SozlukUygulamasi</string>
+	<key>PROJECT_ID</key>
+	<string>swiftprojem</string>
+	<key>STORAGE_BUCKET</key>
+	<string>swiftprojem.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:236876085108:ios:6959f2121971a4dfb3de21</string>
+	<key>DATABASE_URL</key>
+	<string>https://swiftprojem-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
